@@ -12,7 +12,7 @@ function App() {
       setUsuarioGlobal(usuarioFirebase);
     } else {
       setUsuarioGlobal(null);
-    }
+    };
   })
 
 
